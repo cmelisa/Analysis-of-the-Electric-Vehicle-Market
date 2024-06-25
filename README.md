@@ -10,11 +10,21 @@ Bu proje, elektrikli araçların (EV) kullanımını ve benimsenmesini analiz et
 •	Scipy<br>
 
 
-# Analizler ve Görselleştirmeler
-Proje kapsamında yapılan analizler ve görselleştirmeler şunlardır:<br>
-•	EV benimseme eğilimi zaman içinde <br>
-•	İlçe düzeyinde coğrafi dağılım<br>
-•	Elektrikli araç tiplerinin dağılımı<br>
-•	Popüler EV üreticileri ve modelleri<br>
-•	Elektrikli araç menzil dağılımı<br>
-•	Gelecekteki EV kayıtlarının tahmini<br>
+# Proje Amacı
+•	Elektrikli araç benimseme eğilimlerini zaman içinde görselleştirmek. <br>
+•	Coğrafi düzeyde elektrikli araç kullanımının dağılımını analiz etmek.<br>
+•	Farklı elektrikli araç tiplerinin ve üreticilerinin popülerliğini ve dağılımını incelemek.<br>
+•	Elektrikli araçların menzil dağılımını ve gelişimini görselleştirmek.<br>
+•	Gelecekteki elektrikli araç kayıtlarını tahmin etmek ve bu tahminleri görselleştirmek.<br>
+
+
+
+
+# Proje İçeriği
+1.	Veri Yükleme ve Temizleme<br>
+2.	Elektrikli Araç Benimseme Eğilimleri<br>
+3.	Coğrafi Dağılım Analizi<br>
+4.	Elektrikli Araç Türleri ve Üreticileri Analizi<br>
+5.	Menzil Dağılımı ve Gelişimi<br>
+6.	Gelecekteki Kayıtların Tahmini<br>
+
